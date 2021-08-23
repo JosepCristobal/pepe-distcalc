@@ -1,0 +1,17 @@
+{
+  "name": "pepe-distcalc",
+  "version": "0.9.2",
+  "description": "Calculate the distance between two coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "distance","coordinates","geoposition"
+  ],
+  "author": "Pepetrans",
+  "license": "ISC",
+  "dependencies": {
+    "node-geocoder": "^3.27.0"
+  }
+}
